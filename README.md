@@ -11,8 +11,6 @@ genetic은 유전알고리즘을 사용하여 더 빠른 작업 순서를 찾는
 더 빠르다.
 
 
-투고 학술지 : https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10609258
-레퍼런스 : https://github.com/KistCloudRobot/multirobot
 
 assumed that it is a factory environment. 
 The environment can be customized in the map folder. 
@@ -23,3 +21,8 @@ The greedy algorithm moves in search of the closest distance goal.
 Hillclimb finds a faster order of work in the way he proposed in my conference paper. 
 Genetic uses genetic algorithms to find faster work order. 
 because of the loading speed is slow in genetic, using the 'Mfile:withtable' is faster to use the distance saved as a lookup table.
+
+
+투고 학술지 : https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10609258
+
+레퍼런스 : https://github.com/KistCloudRobot/multirobot
